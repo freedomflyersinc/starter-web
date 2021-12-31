@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonathan Johnston freedomflyersinc@gmail.com
 
 # THANKS
 
