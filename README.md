@@ -15,3 +15,6 @@ As stated above, the purpose is to provide simple examples of Git training demos
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How to Contribute
+
+### Copyright
+2021 Git Training
